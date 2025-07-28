@@ -20,7 +20,7 @@ export default function PrivacyPolicy() {
           We respect your privacy and do not use tracking, analytics, or any form of data collection.
         </p>
         <p>
-          If you have any questions about this policy, please contact us at <a href="mailto:you@example.com">you@example.com</a>.
+          If you have any questions about this policy, please contact us at <a href="mailto:czaikis@o365.uth.com">czaikis@o365.uth.com</a>.
         </p>
         <footer style={{
           textAlign: 'center',
@@ -28,7 +28,7 @@ export default function PrivacyPolicy() {
           color: '#666',
           marginTop: '2rem'
         }}>
-          &copy; 2025 Your Company or App Name
+          &copy; 2025 Chris Zaikis or Fire Guard
         </footer>
       </div>
     </>
