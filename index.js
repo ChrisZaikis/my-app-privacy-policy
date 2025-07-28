@@ -20,7 +20,7 @@ export default function PrivacyPolicy() {
           We respect your privacy and do not use tracking, analytics, or any form of data collection.
         </p>
         <p>
-          If you have any questions about this policy, please contact us at <a href="mailto:czaikis@o365.uth.com">czaikis@o365.uth.com</a>.
+          If you have any questions about this policy, please contact us at <a href="mailto:czaikis@o365.uth.gr">czaikis@o365.uth.gr</a>.
         </p>
         <footer style={{
           textAlign: 'center',
